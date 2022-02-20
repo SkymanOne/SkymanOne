@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm German Nikolishin</h1>
 <h3 align="center">Rust lover and student @ University of Southampton</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skymanone&label=Profile%20views&color=0e75b6&style=flat" alt="skymanone" /> </p>
+<p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone" alt="skymanone" /></a> </p>
-
-![](https://www.codewars.com/users/SkymanOne/badges/large)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone" alt="skymanone" /></a> </p>
 
 - 🔭 I’m currently working on **Megaslice project**
 
