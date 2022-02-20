@@ -1,16 +1,14 @@
-### Hi there 👋
+# German Nikolishin
+![](https://www.codewars.com/users/SkymanOne/badges/large)
 
-<!--
-**SkymanOne/SkymanOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is small summary about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Megaslice project
+- 🌱 I’m currently learning Rust ⚙️
+- 👯 I’m looking to collaborate on web3 projects
+- 🤔 I’m looking for help with blockchain 
+- 💬 Ask me about SOLID, DeFi, blockchain, future of decentralisation and what coffee I like
+- 📫 How to reach me: [Telegram](https://t.me/SkymanOne)
+- ⚡ Fun fact: I am German, but I am from Russia
+
