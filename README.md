@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Megaslice project**
 
-- 🌱 I’m currently learning **Rust ⚙️** [rustings](https://github.com/rust-lang/rustlings) - **40%**
+- 🌱 I’m currently learning **Rust ⚙️** [rustings](https://github.com/rust-lang/rustlings) - **90%**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
@@ -16,8 +16,6 @@
 - 💬 Ask me about **SOLID, DeFi, blockchain, future of decentralisation and what coffee I like**
 
 - 📫 How to reach me **german.nikolishin@gmail.com**
-
-- ⚡ Fun fact **I am German, but I am from Russia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
