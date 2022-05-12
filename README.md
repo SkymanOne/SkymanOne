@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Megaslice project**
 
-- 🌱 I’m currently learning **Rust ⚙️** [rustings](https://github.com/rust-lang/rustlings) - **90%**
+- 🌱 I’m currently learning **Rust ⚙️** [rustings](https://github.com/rust-lang/rustlings) - **100%**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
