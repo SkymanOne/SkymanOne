@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone" alt="skymanone" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone&title=MultipleLang,Followers,Commits,Stars,Issues,PullRequest" alt="skymanone" /></a> </p>
 
-- 🔭 I’m currently working on **Megaslice project**
+- 🔭 I’m currently working on [IcedPFS](https://github.com/SkymanOne/IcedPFS) - a lightweight IPFS client in rust
 
-- 🌱 I’m currently learning **Rust ⚙️** [rustings](https://github.com/rust-lang/rustlings) - **100%**
+- 🌱 I’m currently learning **Rust🦀** and tokio. Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
