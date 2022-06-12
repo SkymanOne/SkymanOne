@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IcedPFS](https://github.com/SkymanOne/IcedPFS) - a lightweight IPFS client in rust
 
-- 🌱 I’m currently learning **Rust🦀** and tokio. Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
+- 🌱 I’m currently learning **Rust🦀** and [tokio](https://tokio.rs). Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
