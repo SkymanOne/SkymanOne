@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone&title=MultipleLang,Followers,Commits,Stars,Issues,PullRequest&theme=oldie" alt="skymanone" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone&title=Followers,Commits,Stars,Issues,PullRequest&theme=oldie" alt="skymanone" /></a> </p>
 
 - 🔭 I’m currently working on [IcedPFS](https://github.com/SkymanOne/IcedPFS) - a lightweight IPFS client in rust
 
