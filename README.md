@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [IcedPFS](https://github.com/SkymanOne/IcedPFS) - a lightweight IPFS client in rust
 
-- 🌱 I’m currently learning **Rust🦀** and [tokio](https://tokio.rs). Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
+- 🌱 I’m currently learning **Rust🦀**, [tokio](https://tokio.rs) and [substrate](https://substrate.io). Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
 
 - 👯 I’m looking to collaborate on **web3 projects**
-
-- 🤝 I’m looking for help with **blockchain**
 
 - 💬 Ask me about **SOLID, DeFi, blockchain, future of decentralisation and what coffee I like**
 
