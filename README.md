@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skymanone&title=Followers,Commits,Stars,Issues,PullRequest&theme=oldie" alt="skymanone" /></a> </p>
-
 - 🔭 I’m currently working on [IcedPFS](https://github.com/SkymanOne/IcedPFS) - a lightweight IPFS client in rust
 
 - 🌱 I’m currently learning **Rust🦀**, [tokio](https://tokio.rs) and [substrate](https://substrate.io). Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
@@ -22,9 +20,5 @@
   <a href="https://t.me/skymanone" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/telegram-icon-24.png" alt="skymanone" height="40" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skymanone&theme=swift&show_icons=true&locale=en" alt="skymanone" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skymanone&theme=swift&show_icons=true&locale=en" alt="skymanone" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skymanone&theme=swift" alt="skymanone" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skymanone&theme=dark" alt="skymanone" /><p/>
 
