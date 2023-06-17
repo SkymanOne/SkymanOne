@@ -3,15 +3,15 @@
 
 <p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
 
-- 🔭 I’m currently working on [IcedPFS](https://github.com/SkymanOne/IcedPFS) - a lightweight IPFS client in rust
-
-- 🌱 I’m currently learning **Rust🦀**, [tokio](https://tokio.rs) and [substrate](https://substrate.io). Check my [rustings](https://github.com/rust-lang/rustlings) solutions out
+- 🌱 I’m currently learning **Rust🦀**, [tokio](https://tokio.rs) and [Zero-Knowledge Proofs](https://zk-learning.org/)
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
-- 💬 Ask me about **SOLID, DeFi, blockchain, future of decentralisation and what coffee I like**
+- 💬 Ask me about **SOLID, DeFi, blockchain, the future of decentralisation and what coffee I like**
 
 - 📫 How to reach me **german.nikolishin@gmail.com**
+
+- 🕸️ Visit my blog: https://nikolish.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
