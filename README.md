@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm German Nikolishin</h1>
+<h1 align="center">Hi 👋, I'm German (Gherman) Nikolishin</h1>
 <h3 align="center">Rust lover and student @ University of Southampton</h3>
 
 <p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
