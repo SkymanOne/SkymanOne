@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm German (Gherman) Nikolishin</h1>
-<h3 align="center">Rust lover and student @ University of Southampton</h3>
+<h1 align="center">Hi 👋, I'm Gherman Nicolisin</h1>
 
 <p align="center"> <a href="https://www.codewars.com/users/SkymanOne"><img src="https://www.codewars.com/users/SkymanOne/badges/large" alt="skymanone" /></a> </p>
+
 
 - 🌱 I’m currently learning **Rust🦀**, [tokio](https://tokio.rs) and [Zero-Knowledge Proofs](https://zk-learning.org/)
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
-- 💬 Ask me about **SOLID, DeFi, blockchain, the future of decentralisation and what coffee I like**
+- 💬 Ask me about **zk, formal verification, the future of decentralisation and what coffee I like**
 
 - 📫 How to reach me **german.nikolishin@gmail.com**
 
